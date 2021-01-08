@@ -1,6 +1,5 @@
 %% Precison, Recall, F1-score calculation from the confusion matrix
-% Created by Akhilesh Yadav, NITk, Surathkal, India
-
+% Created by Akhilesh Yadav
 
 
 %%
